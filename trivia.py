@@ -69,4 +69,17 @@ if ans == "B":
 else:
     print("Wrong!")
 
-print("\nFinal Score:", score, "/ 5")
+print("\n6. Who is the NBA's all-time leading scorer?")
+print("A. Michael Jordan")
+print("B. LeBron James")
+print("C. Kobe Bryant")
+
+ans = input("Answer: ").upper()
+
+if ans == "B":
+    print("Correct!")
+    score += 1
+else:
+    print("Wrong!")
+
+print("\nFinal Score:", score, "/ 6")
