@@ -1,7 +1,7 @@
 
 score = 0
 
-print("Basketball Trivia Game")
+print("NBA Basketball Trivia Game")
 print("----------------------")
 
 print("\n1. How many players are on the court for one team?")
